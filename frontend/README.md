@@ -1,3 +1,2 @@
-Steps while making this Web APP : -
-1. npx create React-app 
-2. yarn add axiox firebase styled-components react-icons react-redux @reduxjs/toolkit react-router-dom
+1. Create react app using Vite
+2. npm i axios firebase styled-components react-icons react-router-dom react-redux @reduxjs/toolkit
