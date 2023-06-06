@@ -16,6 +16,7 @@ export default function Header(props) {
     </StyledHeader>
   );
 }
+
 const StyledHeader = styled.header`
   padding: 0 4rem;
   .logo {
